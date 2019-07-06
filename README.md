@@ -1,8 +1,24 @@
 ## 호텔 예약관리 프로그램
 
-You can use the [editor on GitHub](https://github.com/HajeongJeon/swingProject/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+기획의도 : 기업 입장에서 현재 사업에 필요한 프로그램이 무엇일지 생각해 보고
+기업의 고객들을 위한 프로그램을 개발하여 본다.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+상세설명 : 현재 에어비앤비의 고객 중에는 개인도 있지만 호텔, 호스텔과 같이 다수의 호텔 예약, 숙박을 관리해야 하는 호스트도 있습니다. 따라서 이들을 위한 예약, 숙박 프로그램을 만들게 되었습니다.
+
+기대 효과 : 기업 고객들의 편의성 증대
+
+
+### 세부 내용
+참여 인원 : 전하정 (1명)
+
+기간 : 2019.04.15 ~ 2019.04.22, 일주일
+
+개발 도구 : JAVA, ORACLE, ERwin Data Modeler
+
+주요 기능 : 1) 데이터베이스에 등록된 ID와 비밀번호로 로그인
+           2)	예약 확인, 현재 숙박 확인, 객실 확인, 고객 확인
+           3)	예약 삭제
+
 
 ### Markdown
 
