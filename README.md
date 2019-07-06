@@ -34,7 +34,7 @@
 
 
 # 로그인 
-![gif01](https://user-images.githubusercontent.com/44046132/60755567-7d239580-a02c-11e9-8f91-58db535a4a70.gif)
+![img02](https://user-images.githubusercontent.com/44046132/60755579-afcd8e00-a02c-11e9-8fee-2ec85f6642c5.jpg)
 
 
 
