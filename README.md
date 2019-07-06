@@ -27,6 +27,8 @@
 ![png01](https://user-images.githubusercontent.com/44046132/60755429-97f50a80-a02a-11e9-8bbb-c974d94624c1.PNG)
 
 
+
+![gif01](https://user-images.githubusercontent.com/44046132/60755606-13f05200-a02d-11e9-871a-97ce3ad7606a.gif)
 ## 결과물
 
 
