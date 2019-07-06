@@ -15,7 +15,7 @@
 
 개발 도구 : JAVA, ORACLE, ERwin Data Modeler
 
-주요 기능 : 
+<b>주요 기능 :</b> 
 
 1) 데이터베이스에 등록된 ID와 비밀번호로 로그인
 2) 예약 확인, 현재 숙박 확인, 객실 확인, 고객 확인
@@ -29,24 +29,20 @@
 
 ## 결과물
 
+### 로그인 
+![gif01](https://user-images.githubusercontent.com/44046132/60755606-13f05200-a02d-11e9-871a-97ce3ad7606a.gif)
 
-```markdown
+### 예약, 숙박, 객실, 고객 확인
+![gif02](https://user-images.githubusercontent.com/44046132/60755644-66317300-a02d-11e9-8dfb-a8cfdff920b1.gif)
 
-
-# 로그인 
-![img02](https://user-images.githubusercontent.com/44046132/60755579-afcd8e00-a02c-11e9-8fee-2ec85f6642c5.jpg)
-
-
-
-# 예약, 숙박, 객실, 고객 확인
-
-
-# 객실 확인 페이지
-
-```
+### 객실 확인 페이지
+![gif03](https://user-images.githubusercontent.com/44046132/60755648-6af62700-a02d-11e9-96b6-759efcd870ab.gif)
 
 
 
+
+
+## 
 ### 보완해야 할 점
 1. 향후 예약 추가, 수정 기능 구현이 필요함
 2. 추가적으로 ‘예약’ 테이블에서 ‘숙박’테이블로 버튼을 누르면 테이블 한 행이 이동하도록 하는 것도 생각해 볼 만한 기능
