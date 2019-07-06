@@ -33,10 +33,10 @@
 ![gif01](https://user-images.githubusercontent.com/44046132/60755606-13f05200-a02d-11e9-871a-97ce3ad7606a.gif)
 
 ### 예약, 숙박, 객실, 고객 확인
-
+![gif02](https://user-images.githubusercontent.com/44046132/60755644-66317300-a02d-11e9-8dfb-a8cfdff920b1.gif)
 
 ### 객실 확인 페이지
-
+![gif03](https://user-images.githubusercontent.com/44046132/60755648-6af62700-a02d-11e9-96b6-759efcd870ab.gif)
 
 
 ### 보완해야 할 점
