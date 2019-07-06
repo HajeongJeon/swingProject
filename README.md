@@ -34,7 +34,9 @@
 
 
 # 로그인 
-![gif01](https://user-images.githubusercontent.com/44046132/60755557-59f8e600-a02c-11e9-9b1d-c2969fcc5598.gif)
+![gif01](https://user-images.githubusercontent.com/44046132/60755567-7d239580-a02c-11e9-8f91-58db535a4a70.gif)
+
+
 
 # 예약, 숙박, 객실, 고객 확인
 
