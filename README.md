@@ -22,37 +22,39 @@
 3) 예약 삭제
 
 일정 :
-![img01](./img_for_readme/img01.png)
 
 
-### Markdown
+![png01](https://user-images.githubusercontent.com/44046132/60755429-97f50a80-a02a-11e9-8bbb-c974d94624c1.PNG)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+
+## 결과물
+
 
 ```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+# 로그인 
+![img02](https://user-images.githubusercontent.com/44046132/60755579-afcd8e00-a02c-11e9-8fee-2ec85f6642c5.jpg)
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
+# 예약, 숙박, 객실, 고객 확인
+
+
+# 객실 확인 페이지
+
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/HajeongJeon/swingProject/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### 보완해야 할 점
+1. 향후 예약 추가, 수정 기능 구현이 필요함
+2. 추가적으로 ‘예약’ 테이블에서 ‘숙박’테이블로 버튼을 누르면 테이블 한 행이 이동하도록 하는 것도 생각해 볼 만한 기능
 
-### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### 프로젝트 진행하며 느낀점
+아이디어 설정에서 시간을 단축하여 기능 구현에 쏟을 시간을 많이 확보하도록 일정을 보완해야겠다고 느꼈다.
+
+
+
+
