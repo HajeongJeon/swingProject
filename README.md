@@ -22,7 +22,7 @@
 3) 예약 삭제
 
 일정 :
-![img01](./img_for_readme/img01.png)
+![img01](./img_for_readme/png01.png)
 
 
 ### Markdown
