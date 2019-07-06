@@ -26,6 +26,9 @@
 
 ![png01](https://user-images.githubusercontent.com/44046132/60755429-97f50a80-a02a-11e9-8bbb-c974d94624c1.PNG)
 
+
+<p style="color:red"><b>*</b> 더 자세한 내용은 프로젝트 계획안.pdf를 참조해주세요.</p>
+
 <!--
 ## 결과물
 
